@@ -1,5 +1,5 @@
 # android-ci
-Build android native project in gitlab-ci
+Build android native project in gitlab-ci ([Show in docker hub](https://hub.docker.com/r/sejil/android))
 
 ## steps:
 * build `Dockerfile` with this:
@@ -23,3 +23,6 @@ docker build -t android-builder:latest .
 
 ## TO-DO
 - [ ] Clean `.gitlab-ci.yml`
+
+
+‍‍`Help improve this repo, Please ♥`
